@@ -1,0 +1,326 @@
+[
+{
+    "question" : "Which of the following is not true about the COALESCE function?",
+    "options":{
+        "optionA":"It takes multiple alternate values.",
+        "optionB":"It returns the first non-null expression in the parameter list.",
+        "optionC":"It returns the first value in the parameter list if it is null.",
+        "optionD":"None of the Above",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"It returns the first value in the parameter list if it is null.",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following functions can be used on both numeric as well as non-numeric data?",
+    "options":{
+        "optionA":"COUNT",
+        "optionB":"AVG",
+        "optionC":"STDDEV",
+        "optionD":"VARIANCE",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"COUNT",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following is not true about removing rows from a table?",
+    "options":{
+        "optionA":"You can use a subquery in a DELETE statement.",
+        "optionB":"Specific rows are deleted based on the WHERE clause condition.",
+        "optionC":"A statement like, DELETE , would cause deletion of the table from the database.",
+        "optionD":"All of the above",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"A statement like, DELETE , would cause deletion of the table from the database.",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following statements allows William to change his database user account password to bill?",
+    "options":{
+        "optionA":"create user william identified by bill;",
+        "optionB":"alter user william identified by bill",
+        "optionC":"create user william password bill;",
+        "optionD":"alter user william password bill;",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"alter user william identified by bill",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+},
+{
+    "question" : "HONOURS_SUBJECT(subject_code, subject_name, department_head); \n LOCATIONS(subject_code, department_name, location_id, city); \n Select the right query for retrieving records from the tables HONOURS_SUBJECT and LOCATIONS with the ON clause",
+    "options":{
+        "optionA":"select h.subject_name, l.department_name, h.department_head, l.city from honours_subject h join location l on(h.subject_code = l.subject_code);",
+        "optionB":"select h.subject_name, l.department_name, h.department_head, l.city from honours_subject h join location l on(subject_code);",
+        "optionC":"select h.subject_name, l.department_name, h.department_head, l.city from honours_subject h, location l on(subject_code);",
+        "optionD":"None of the above",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"select h.subject_name, l.department_name, h.department_head, l.city from honours_subject h join location l on(h.subject_code = l.subject_code);",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following query would limit the output to 5 rows?",
+    "options":{
+        "optionA":"SELECT * FROM DataFlair 5;",
+        "optionB":"SELECT * FROM DataFlair LIMIT 5;",
+        "optionC":"SELECT * FROM DataFlair 5 LIMIT;",
+        "optionD":"SELECT LIMIT(5) * FROM DataFlair ;",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"SELECT * FROM DataFlair LIMIT 5;",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following is not a Clause in SQL?",
+    "options":{
+        "optionA":"Below",
+        "optionB":"Group By",
+        "optionC":"Where",
+        "optionD":"Limit",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"Below",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following operator is used to extract pattern matching data from the database?",
+    "options":{
+        "optionA":"LIKE",
+        "optionB":"FIND",
+        "optionC":"SELECT",
+        "optionD":"UPDATE",
+        "optionsE":"MATCH",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"LIKE",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following is true about a cursor in SQL?",
+    "options":{
+        "optionA":"It is read-only.",
+        "optionB":"The cursor can perform all the CRUD operations.",
+        "optionC":"Cursors are objects of the query.",
+        "optionD":"Cursors are created automatically.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"It is read-only.",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following query finds employees with an experience more than 5? Table : emp_id | name | location | experience",
+    "options":{
+        "optionA":"Select * From DataFlair where experience>5;",
+        "optionB":"Select * From DataFlair;",
+        "optionC":"Select * From DataFlair where experience>=5;",
+        "optionD":"Select * From DataFlair where experience<=5;",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"Select * From DataFlair where experience>5;",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"SQL"
+},
+{
+    "question" : "Which data type of SQL is used to store a JSON object?",
+    "options":{
+        "optionA":"NVarchar",
+        "optionB":"BLOB",
+        "optionC":"Char",
+        "optionD":"Int",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"NVarchar",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following is not a part of CRUD operations in SQL?",
+    "options":{
+        "optionA":"Creating a table.",
+        "optionB":"Deleting records from the table.",
+        "optionC":"Creating a copy of a table.",
+        "optionD":"Updating the data stored in the table.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"Creating a copy of a table.",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following statements about the MAX function in SQL are true?",
+    "options":{
+        "optionA":"Can be used on any datatype.",
+        "optionB":"Returns the max value of the attribute.",
+        "optionC":"It is an aggregate function.",
+        "optionD":"All of the above statements are true.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"All of the above statements are true.",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following join extracts data of matching rows from both tables?",
+    "options":{
+        "optionA":"Full Outer Join",
+        "optionB":"Left Join",
+        "optionC":"Right Join",
+        "optionD":"None of the above",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"Full outer join",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+},
+{
+    "question" : "Which of the following is not true about views?",
+    "options":{
+        "optionA":"Can be created only from one table.",
+        "optionB":"Grouping using functions is present.",
+        "optionC":" No DML queries can be executed on the views.",
+        "optionD":" All of the above statements are true.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":" No DML queries can be executed on the views.",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+},
+{
+    "question" : "write a query to get the employee details whose name starts with ‘A’.",
+    "options":{
+        "optionA":"USE DataFlair; SELECT * FROM DataFlair WHERE name LIKE 'A%';",
+        "optionB":"USE DataFlair; SELECT * FROM DataFlair WHERE name LIKE '%A'",
+        "optionC":"USE DataFlair; SELECT * FROM DataFlair WHERE name LIKE 'A_%'",
+        "optionD":"USE DataFlair; SELECT * FROM DataFlair WHERE name LIKE '__A%'",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"USE DataFlair; SELECT * FROM DataFlair WHERE name LIKE 'A%';",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"SQL"
+},
+{
+    "question" : "What is SQL injection?",
+    "options":{
+        "optionA":"A type of computer virus",
+        "optionB":"A technique to exploit database flaws",
+        "optionC":"A method to encrypt SQL queries",
+        "optionD":"A form of encryption algorithm",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"A technique to exploit database flaws",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"SQL"
+},
+{
+    "question" : "What will be the output of the query? : SELECT City FROM Customers UNION SELECT City FROM Suppliers ORDER BY City;",
+    "options":{
+        "optionA":"Error",
+        "optionB":"Selects all the values of City from Customers and adds distinct City values from Suppliers",
+        "optionC":"Selects all distinct City values from Customers and Suppliers",
+        "optionD":"Selects all the values of City from Suppliers and adds distinct City values from Customers",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Selects all the values of City from Customers and adds distinct City values from Suppliers",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"SQL"
+}
+]

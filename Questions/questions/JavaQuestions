@@ -1,0 +1,344 @@
+[
+{
+    "question" : "Which will legally declare, construct, and initialize an array?",
+    "options":{
+        "optionA":"int [] myList = {'1', '2', '3'};",
+        "optionB":"int [] myList = (5, 8, 2);",
+        "optionC":"int myList [] [] = {4,9,7,0};",
+        "optionD":"int myList [] = {4, 3, 7};",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"int myList [] = {4, 3, 7};",
+        "explanation":"Option A is wrong because it initializes an int array with String literals.\n Option B is wrong because it use something other than curly braces for the initialization."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Java"
+},
+{
+    "question" : "you want subclasses in any package to have access to members of a superclass. Which is the most restrictive access that accomplishes this objective?",
+    "options":{
+        "optionA":"public",
+        "optionB":"private",
+        "optionC":"protected",
+        "optionD":"transient",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"protected",
+        "explanation":"A is also a contender but C is more restrictive, B would be the answer if the constraint was the "same package" instead of "any package" in other words the subclasses clause in the question eliminates default."
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?",
+    "options":{
+        "optionA":"java.util.SortedMap",
+        "optionB":"java.util.TreeMap",
+        "optionC":"java.util.TreeSet",
+        "optionD":"java.util.Hashtable",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"java.util.Hashtable",
+        "explanation":"Hashtable is the only class listed that provides synchronized methods. If you need synchronization great; otherwise, use HashMap, it's faster."
+    },
+    "difficulty":"HARD",
+    "category":"Java"
+},
+{
+    "question" : "Which class does not override the equals() and hashCode() methods, inheriting them directly from class Object?",
+    "options":{
+        "optionA":"java.lang.String",
+        "optionB":"java.lang.Double",
+        "optionC":"java.lang.StringBuffer",
+        "optionD":"java.lang.Character",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"java.lang.StringBuffer",
+        "explanation":"java.lang.StringBuffer is the only class in the list that uses the default methods provided by class Object."
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "Number of primitive data types in Java are?",
+    "options":{
+        "optionA":"6",
+        "optionB":"7",
+        "optionC":"8",
+        "optionD":"9",
+        "optionsE":"5",
+        "optionsF":"10"
+    },
+    "answer":{
+        "option":"C",
+        "answer":"8",
+        "explanation":"There are 8 types of primitive data types- int, char, boolean, byte, long, float, short, double."
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "What is the size of float and double in java?",
+    "options":{
+        "optionA":"32 and 64",
+        "optionB":"32 and 32",
+        "optionC":"64 and 64",
+        "optionD":"64 and 32",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"32 and 64",
+        "explanation":"The size of float and double in java is 32 and 64."
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "Automatic type conversion is possible in which of the possible cases?",
+    "options":{
+        "optionA":"Byte to Int",
+        "optionB":"Int to Long",
+        "optionC":"Long to Int",
+        "optionD":"Short to Int",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Int to Long",
+        "explanation":"Automatic type conversion is possible in Int to long."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Java"
+},
+{
+    "question" : "Find the output of the following code.\n int Integer = 24; \n char String  = ‘I’; \n System.out.print(Integer); \n System.out.print(String);",
+    "options":{
+        "optionA":"Compile Error",
+        "optionB":"Throws Exception",
+        "optionC":"I",
+        "optionD":"24 I",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"24 I",
+        "explanation":"24 I will be printed."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Java"
+},
+{
+    "question" : "When an array is passed to a method, what does the method receive?",
+    "options":{
+        "optionA":"The reference of the array",
+        "optionB":"A copy of the array",
+        "optionC":"Length of the array",
+        "optionD":"Copy of first element",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"The reference of the array",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "Arrays in java are-",
+    "options":{
+        "optionA":"Object references",
+        "optionB":"Objects",
+        "optionC":"Primitive data type",
+        "optionD":"None",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Objects",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "When is the object created with new keyword?",
+    "options":{
+        "optionA":"At run time",
+        "optionB":"At compile time",
+        "optionC":"Depends on the code",
+        "optionD":"None",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"At run time",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Java"
+},
+{
+    "question" : "Identify the corrected definition of a package.",
+    "options":{
+        "optionA":"A package is the collection of tools",
+        "optionB":"A package is the collection of classes",
+        "optionC":"A package is the collection of classes and interfaces",
+        "optionD":"A package is the collection of interfaces",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"A package is the collection of classes and interfaces",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "Total constructor string class have?",
+    "options":{
+        "optionA":"3",
+        "optionB":"7",
+        "optionC":"13",
+        "optionD":"11",
+        "optionsE":"5",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"13",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"Java"
+},
+{
+    "question" : "Where does the system stores parameters and local variables whenever a method is invoked?",
+    "options":{
+        "optionA":"Heap",
+        "optionB":"Stack",
+        "optionC":"Array",
+        "optionD":"Tree",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Stack",
+        "explanation":"The system stores parameters and local variables in a stack."
+    },
+    "difficulty":"HARD",
+    "category":"Java"
+},
+{
+    "question" : "What is the variables declared in a class for the use of all methods of the class called?",
+    "options":{
+        "optionA":"Object",
+        "optionB":"Instance Variable",
+        "optionC":"Reference variable",
+        "optionD":"Static Variable",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Instance Variable",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Java"
+},
+{
+    "question" : "What is the implicit return type of constructor?",
+    "options":{
+        "optionA":"No return type",
+        "optionB":"A class object in which it is defined",
+        "optionC":"void",
+        "optionD":"None",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"A class object in which it is defined",
+        "explanation":""
+    },
+    "difficulty":"",
+    "category":""
+},
+{
+    "question" : "When is the finalize() method called?",
+    "options":{
+        "optionA":"Before garbage collection",
+        "optionB":"before object goes out of scope",
+        "optionC":"before variable goes out of scope",
+        "optionD":"None",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"Before garbage collection",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"Java"
+},
+{
+    "question" : "Which of the following is a valid long literal?",
+    "options":{
+        "optionA":"ABH8097",
+        "optionB":"L990023",
+        "optionC":"904423",
+        "optionD":"0xnf029L",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"0xnf029L",
+        "explanation":"For every long literal to be recognized by Java, we need to add L character at the end of the expression. It can be either uppercase (L) or lowercase (l) character. However, it is recommended to use uppercase character instead of lowercase because the lowercase (l) character is hard to distinguish from the uppercase (i) character."
+    },
+    "difficulty":"HARD",
+    "category":"Java"
+},
+{
+    "question" : "Evaluate the following Java expression, if x=3, y=5, and z=10: ++z + y - y + z + x++",
+    "options":{
+        "optionA":"24",
+        "optionB":"23",
+        "optionC":"20",
+        "optionD":"25",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"25",
+        "explanation":"11 + 5 - 5 + 11 + 3 = 25"
+    },
+    "difficulty":"HARD",
+    "category":"Java"
+}
+]

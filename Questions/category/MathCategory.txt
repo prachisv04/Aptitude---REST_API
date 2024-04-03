@@ -1,0 +1,82 @@
+[
+{
+        "name": "Profit and Loss",
+        "tag": "MATH"
+},
+{
+        "name": "Simple Interest",
+        "tag": "MATH"
+},
+{
+        "name": "Percentage",
+        "tag": "MATH"
+},
+{
+        "name": "Calendar",
+        "tag": "MATH"
+},
+{
+        "name": "Average",
+        "tag": "MATH"
+},
+{
+        "name": "Permutation_Combination",
+        "tag": "MATH"
+},
+{
+        "name": "Time_Work",
+        "tag": "MATH"
+},
+{
+        "name": "Logarithm",
+        "tag": "MATH"
+},
+{
+        "name": "Area",
+        "tag": "MATH"
+},
+{
+        "name": "HCF_LCM",
+        "tag": "MATH"
+},
+{
+        "name": "Decimal_Fraction",
+        "tag": "MATH"
+},
+{
+        "name": "Ratio_Proportion",
+        "tag": "MATH"
+},
+{
+        "name": "Time_Distance",
+        "tag": "MATH"
+},
+{
+        "name": "Square_Cube",
+        "tag": "MATH"
+},
+{
+        "name": "Ages",
+        "tag": "MATH"
+},
+{
+        "name": "Data_Interpretation",
+        "tag": "MATH"
+},
+{
+        "name": "Trains",
+        "tag": "MATH"
+},
+{
+        "name": "Numbers",
+        "tag": "MATH"
+},
+{
+        "name": "Clock",
+        "tag": "MATH"
+},
+{
+        "name": "Alligation_Mixture",
+        "tag": "MATH"
+}
+]

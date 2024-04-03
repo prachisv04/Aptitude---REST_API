@@ -1,0 +1,34 @@
+[
+{
+        "name": "MicroBiology",
+        "tag": "MEDICAL"
+},
+{
+        "name": "BioTechnology",
+        "tag": "MEDICAL"
+},
+{
+        "name": "MicroChemistry",
+        "tag": "MEDICAL"
+},
+{
+		"name": "MBBS",
+        "tag": "MEDICAL"
+},
+{
+		"name": "Ayurveda",
+        "tag": "MEDICAL"
+},
+{
+		"name": "Cardiology",
+        "tag": "MEDICAL"
+},
+{
+		"name": "Dermatology",
+        "tag": "MEDICAL"
+},
+{
+		"name": "Neurology",
+        "tag": "MEDICAL"
+}
+]

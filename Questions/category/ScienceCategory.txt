@@ -1,0 +1,22 @@
+[
+{
+        "name": "Physics",
+        "tag": "SCIENCE"
+},
+{
+        "name": "Chemistry",
+        "tag": "SCIENCE"
+},
+{
+        "name": "Biology",
+        "tag": "SCIENCE"
+},
+{
+		"name": "Zoology",
+        "tag": "SCIENCE"
+},
+{
+		"name": "Botony",
+        "tag": "SCIENCE"
+}
+]

@@ -1,0 +1,362 @@
+[
+{
+    "question" : "find out whether there is any grammatical error in : ",
+    "options":{
+        "optionA":"Do the roses in your garden smell",
+        "optionB":"more sweetly",
+        "optionC":"than those in ours?",
+        "optionD":"None",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"more sweetly",
+        "explanation":"sweeter"
+    },
+    "difficulty":"EASY",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "In the following the options choose the word which best expresses the meaning of the word: CORPULENT",
+    "options":{
+        "optionA":"Lean",
+        "optionB":"Gaunt",
+        "optionC":"Emaciated",
+        "optionD":"Obese",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"Obese",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "In the following options choose the word which is the exact OPPOSITE of the given word: COMMISSIONED",
+    "options":{
+        "optionA":"Started",
+        "optionB":"Closed",
+        "optionC":"Finished",
+        "optionD":"Terminated",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"Terminated",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Catching the earlier train will give us the ...... to do some shopping.",
+    "options":{
+        "optionA":"chance",
+        "optionB":"luck",
+        "optionC":"possibility",
+        "optionD":"occasion",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"chance",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Jawaharlal spent his childhood ...... Anand Bhawan.",
+    "options":{
+        "optionA":"at",
+        "optionB":"in",
+        "optionC":"on",
+        "optionD":"across",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"at",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Find the correctly spelt words.",
+    "options":{
+        "optionA":"Ommineous",
+        "optionB":"Omineous",
+        "optionC":"Ominous",
+        "optionD":"Omenous",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"Ominous",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Find out that word, the spelling of which is WRONG. The letter of that word is the answer.",
+    "options":{
+        "optionA":"Inflamable",
+        "optionB":"Musician",
+        "optionC":"Righteousness",
+        "optionD":"Negotiate",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"A",
+        "answer":"Inflamable",
+        "explanation":"Inflammable"
+    },
+    "difficulty":"HARD",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Find Wrong",
+    "options":{
+        "optionA":"He was invited",
+        "optionB":"to attend the",
+        "optionC":"inaugural of the all party",
+        "optionD":"meat",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"meat",
+        "explanation":"meet"
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Find wrong",
+    "options":{
+        "optionA":"The religious leaders",
+        "optionB":"attained all the",
+        "optionC":"ceremonies of other",
+        "optionD":"creeds",
+        "optionsE":"All correct",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"attained all the",
+        "explanation":"Attain"
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Join these parts to make a meaningful sentence. 1. tea	2. have	3. that 4. some	5. before",
+    "options":{
+        "optionA":"43251",
+        "optionB":"24315",
+        "optionC":"24153",
+        "optionD":"52431",
+        "optionsE":"41325",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"24153",
+        "explanation":""Have some tea before that.""
+    },
+    "difficulty":"HARD",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : " I read an advertisement that said \n :- P :	posh, air-conditioned \n Q :	gentleman of taste \n R :	are available for \n S :	fully furnished rooms \nThe Proper sequence should be:",
+    "options":{
+        "optionA":"PQRS",
+        "optionB":"PSRQ",
+        "optionC":"PSQR",
+        "optionD":"SRPQ",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"PSRQ",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "She never visits any zoo because she is strong opponent of the idea of ......",
+    "options":{
+        "optionA":"setting the animals free into forest",
+        "optionB":"feeding the animals while others are watching",
+        "optionC":"watching the animals in their natural abode",
+        "optionD":"going out of the house on a holiday",
+        "optionsE":"holding the animals in captivity for our joy",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"E",
+        "answer":"holding the animals in captivity for our joy",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "choose the one which can be substituted for the given word/sentence. :Extreme old age when a man behaves like a fool",
+    "options":{
+        "optionA":"Imbecility",
+        "optionB":"Senility",
+        "optionC":"Dotage",
+        "optionD":"Superannuation",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"Dotage",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Leave or remove from a place considered dangerous",
+    "options":{
+        "optionA":"Evade",
+        "optionB":"Evacuate",
+        "optionC":"Avoid",
+        "optionD":"Exterminate",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Evacuate",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Some proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom: To put one's hand to plough",
+    "options":{
+        "optionA":"To take up agricultural farming",
+        "optionB":"To take a difficult task",
+        "optionC":"To get entangled into unnecessary things",
+        "optionD":"Take interest in technical work",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"To take a difficult task",
+        "explanation":""
+    },
+    "difficulty":"MEDIUM",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Change Voice : They greet me cheerfully every morning.",
+    "options":{
+        "optionA":"Every morning I was greeted cheerfully.",
+        "optionB":"I am greeted cheerfully by them every morning.",
+        "optionC":"I am being greeted cheerfully by them every morning.",
+        "optionD":"Cheerful greeting is done by them every morning to me.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"I am greeted cheerfully by them every morning.",
+        "explanation":""
+    },
+   "difficulty":"HARD",
+   "category":"Verbal_Ability"
+},
+{
+    "question" : "Change Voice : Do you imitate others?",
+    "options":{
+        "optionA":"Are others being imitated by you?",
+        "optionB":"Are others imitated by you?",
+        "optionC":"Have others being imitated by you?",
+        "optionD":"Were others being imitated by you?",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"Are others imitated by you?",
+        "explanation":""
+    },
+    "difficulty":"HARD",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Direct/Indirect Speech : He said to his father, "Please increase my pocket-money."",
+    "options":{
+        "optionA":"He told his father, "Please increase the pocket-money"",
+        "optionB":"He pleaded his father to please increase my pocket money.",
+        "optionC":"He requested his father to increase his pocket-money.",
+        "optionD":"He asked his father to increase his pocket-money.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"He requested his father to increase his pocket-money.",
+        "explanation":""
+    },
+   "difficulty":"MEDIUM",
+   "category":"Verbal_Ability"
+},
+{
+    "question" : "PAIN:SEDATIVE",
+    "options":{
+        "optionA":"comfort:stimulant",
+        "optionB":"grief:consolation",
+        "optionC":"trance:narcotic",
+        "optionD":"ache:extraction",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"grief:consolation",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":"Verbal_Ability"
+},
+{
+    "question" : "Fate smiles ...... those who untiringly grapple with stark realities of life.",
+    "options":{
+        "optionA":"with",
+        "optionB":"over",
+        "optionC":"on",
+        "optionD":"round",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"on",
+        "explanation":""
+    },
+    "difficulty":"EASY",
+    "category":""
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+        "name": "Sports",
+        "tag": "GENERIC"
+},
+{
+        "name": "Geography",
+        "tag": "GENERIC"
+},
+{
+        "name": "Current_Affairs",
+        "tag": "GENERIC"
+},
+{
+        "name": "Honours and Awards",
+        "tag": "GENERIC"
+},
+{
+        "name": "India",
+        "tag": "GENERIC"
+},
+{
+        "name": "India_History",
+        "tag": "GENERIC"
+},
+{
+        "name": "Economy",
+        "tag": "GENERIC"
+},
+{
+        "name": "Inventions",
+        "tag": "GENERIC"
+},
+{
+        "name": "India_Culture",
+        "tag": "GENERIC"
+},
+{
+        "name": "Entertainment",
+        "tag": "GENERIC"
+},
+{
+        "name": "Places",
+        "tag": "GENERIC"
+}
+]

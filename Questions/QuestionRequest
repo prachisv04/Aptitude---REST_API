@@ -1,0 +1,18 @@
+{
+    "question" : "",
+    "options":{
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"",
+        "answer":"",
+        "explanation":""
+    },
+    "difficulty":"",
+    "category":""
+}

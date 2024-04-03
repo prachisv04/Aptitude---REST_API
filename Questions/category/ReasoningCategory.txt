@@ -1,0 +1,26 @@
+[
+{
+        "name": "Logical_Reasoning",
+        "tag": "REASONING"
+},
+{
+        "name": "Verbal_Ability",
+        "tag": "REASONING"
+},
+{
+        "name": "Verbal_Reasoning",
+        "tag": "REASONING"
+},
+{
+        "name": "General_Knowledge",
+        "tag": "REASONING"
+},
+{
+        "name": "NonVerbal_Reasoning",
+        "tag": "REASONING"
+},
+{
+        "name": "Puzzles",
+        "tag": "REASONING"
+}
+]

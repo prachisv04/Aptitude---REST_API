@@ -1,0 +1,256 @@
+[
+{
+    "question" : "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+    "options":{
+        "optionA":"(1/3)",
+        "optionB":"(1/8)",
+        "optionC":"(2/8)",
+        "optionD":"(1/16)",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"(1/8)",
+        "explanation":"The number is divided by 2 successively to get the next result."
+    },
+    "difficulty":"EASY",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+    "options":{
+        "optionA":"7",
+        "optionB":"10",
+        "optionC":"12",
+        "optionD":"13",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"10",
+        "explanation":"This is a simple alternating addition and subtraction series. In the first pattern, 3 is added; in the second, 2 is subtracted."
+    },
+    "difficulty":"EASY",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?",
+    "options":{
+        "optionA":"22",
+        "optionB":"24",
+        "optionC":"25",
+        "optionD":"26",
+        "optionE":"",
+        "optionF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"25",
+        "explanation":"In this simple alternating subtraction and addition series; 1 is subtracted, then 2 is added, and so on."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "SCD, TEF, UGH, ____, WKL",
+    "options":{
+        "optionA":"CMN",
+        "optionB":"UJI",
+        "optionC":"VIJ",
+        "optionD":"IJT",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"VIJ",
+        "explanation":"There are two alphabetical series here. The first series is with the first letters only: STUVW. The second series involves the remaining letters: CD, EF, GH, IJ, KL."
+    },
+    "difficulty":"EASY",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "P5QR, P4QS, P3QT, _____, P1QV",
+    "options":{
+        "optionA":"PQW",
+        "optionB":"PQV2",
+        "optionC":"P2QU",
+        "optionD":"PQ3U",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"C",
+        "answer":"P2QU",
+        "explanation":"The first two letters, PQ, are static. The third letter is in alphabetical order, beginning with R. The number series is in descending order beginning with 5."
+    },
+    "difficulty":"HARD",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Which word does NOT belong with the others?",
+    "options":{
+        "optionA":"parsley",
+        "optionB":"basil",
+        "optionC":"dill",
+        "optionD":"mayonnaise",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"mayonnaise",
+        "explanation":"Parsley, basil, and dill are types of herbs. Mayonnaise is not an herb."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Marathon is to race as hibernation is to",
+    "options":{
+        "optionA":"winter",
+        "optionB":"dream",
+        "optionC":"bear",
+        "optionD":"sleep",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"sleep",
+        "explanation":"A marathon is a long race and hibernation is a lengthy period of sleep. The answer is not choice a or b because even though a bear and winter are related to hibernation, neither completes the analogy. (Choice c) is incorrect because sleep and dream are not synonymous."
+    },
+    "difficulty":"EASY",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Elated is to despondent as enlightened is to",
+    "options":{
+        "optionA":"aware",
+        "optionB":"ignorant",
+        "optionC":"miserable",
+        "optionD":"tolerant",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"ignorant",
+        "explanation":"Elated is the opposite of despondent; enlightened is the opposite of ignorant."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "hapllesh means cloudburst \n srenchoch means pinball \n resbosrench means ninepin \n  Which word could mean "cloud nine"?",
+    "options":{
+        "optionA":"leshsrench",
+        "optionB":"ochhapl",
+        "optionC":"haploch",
+        "optionD":"haplresbo",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"haplresbo",
+        "explanation":"Hapl means cloud; lesh means burst; srench means pin; och means ball; and resbo means nine. Leshsrench (choice a) doesn't contain any of the words needed for cloud nine. We know that och means ball, so that rules out choices b and c. When you combine hapl (cloud) with resbo (nine), you get the correct answer."
+    },
+    "difficulty":"HARD",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Four people witnessed a mugging. Each gave a different description of the mugger. Which description is probably right?",
+    "options":{
+        "optionA":"He was average height, thin, and middle-aged.",
+        "optionB":"He was tall, thin, and middle-aged.",
+        "optionC":"He was tall, thin, and young.",
+        "optionD":"He was tall, of average weight, and middle-aged.",
+        "optionsE":"",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"B",
+        "answer":"He was tall, thin, and middle-aged.",
+        "explanation":"Tall, thin, and middle-aged are the elements of the description repeated most often and are therefore the most likely to be accurate."
+    },
+    "difficulty":"HARD",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "
+If the legislature decides to fund the agricultural subsidy program, national radio, and the small business loan program, the only other single program that can be funded is",
+    "options":{
+        "optionA":"hurricane preparedness.",
+        "optionB":"harbor improvements.",
+        "optionC":"school music program",
+        "optionD":"senate office building remodeling.",
+        "optionsE":"international airport.",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"senate office building remodeling.",
+        "explanation":"The total of the three programs (2 million + 0.5 million + 3 million) is 5.5 million. That leaves 1.5 million (7 million - 5.5 million), and the only single program needing that amount is the senate office building remodeling."
+    },
+    "difficulty":"MEDIUM",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "1.All the schools in the area had to be kept closed for most part of the week."+\n
+                  "2.Many parents have withdrawn their children from the local schools.",
+    "options":{
+        "optionA":"Statement I is the cause and statement II is its effect",
+        "optionB":"Statement II is the cause and statement I is its effect",
+        "optionC":"Both the statements I and II are independent causes",
+        "optionD":"Both the statements I and II are effects of independent causes",
+        "optionsE":"Both the statements I and II are effects of some common cause",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"Both the statements I and II are effects of independent causes",
+        "explanation":"Closing the schools for a week and the parents withdrawing their wards from the local schools are independent issues, which must have been triggered by different individual causes."
+    },
+    "difficulty":"HARD",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "Statements: No bat is ball. No ball is wicket. \n Conclusions: \n No bat is wicket. \n All wickets are bats.",
+    "options":{
+        "optionA":"Only conclusion I follows",
+        "optionB":"Only conclusion II follows",
+        "optionC":"Either I or II follows",
+        "optionD":"Neither I nor II follows",
+        "optionsE":"Both I and II follow",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"D",
+        "answer":"Neither I nor II follows",
+        "explanation":"Since both the premises are negative, no definite conclusion follows."
+    },
+    "difficulty":"",
+    "category":"Logical_Reasoning"
+},
+{
+    "question" : "6 10 14 18 22 26 30",
+    "options":{
+        "optionA":"36 40",
+        "optionB":"33 37",
+        "optionC":"38 42",
+        "optionD":"34 36",
+        "optionsE":"34 38",
+        "optionsF":""
+    },
+    "answer":{
+        "option":"E",
+        "answer":"24 28",
+        "explanation":"This simple addition series adds 4 to each number to arrive at the next."
+    },
+    "difficulty":"EASY",
+    "category":"Logical_Reasoning"
+}
+]

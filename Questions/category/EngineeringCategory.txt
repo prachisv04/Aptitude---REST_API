@@ -1,0 +1,78 @@
+[
+{
+		"name": "Java",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "C",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "C++",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "C#",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "SQL",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Networking",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Operating_System",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Docker",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Kubernetis",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Linux",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "HTML/CSS",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Javascript",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Node.js",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "ReactJS",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "PHP",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "ENTC",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Civil",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Mechanical",
+        "tag": "ENGINEERING"
+},
+{
+		"name": "Electrical",
+        "tag": "ENGINEERING"
+}
+]
